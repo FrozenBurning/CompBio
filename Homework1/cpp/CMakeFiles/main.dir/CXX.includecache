@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/royubuntu/Courses/BioInfo/Homework1/cpp/LCS.cpp
+iostream
+-
+string
+-
+fstream
+-
+

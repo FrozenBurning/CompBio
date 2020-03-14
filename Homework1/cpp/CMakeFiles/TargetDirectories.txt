@@ -1,0 +1,3 @@
+/home/royubuntu/Courses/BioInfo/Homework1/cpp/CMakeFiles/rebuild_cache.dir
+/home/royubuntu/Courses/BioInfo/Homework1/cpp/CMakeFiles/main.dir
+/home/royubuntu/Courses/BioInfo/Homework1/cpp/CMakeFiles/edit_cache.dir
