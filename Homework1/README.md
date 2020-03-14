@@ -4,7 +4,7 @@
  * @Github: https://github.com/FrozenBurning
  * @Date: 2020-03-14 10:55:36
  * @LastEditors: Zhaoxi Chen
- * @LastEditTime: 2020-03-14 11:21:05
+ * @LastEditTime: 2020-03-14 11:29:10
  -->
  
 # CompBio - Homework1
@@ -24,7 +24,9 @@ Developed both on C++ and python, while C++ version for efficiency.
 ### Shortcut
 
 [Python Script](python/LCS.py)
+
 [C++ Script](cpp/LCS.cpp)
+
 [题目2结果](Answer.txt)
 
 ## 1.Prerequisites
